@@ -19,10 +19,6 @@ html {
   box-sizing: inherit;
 }
 
-body {
-  margin: 0;
-}
-
 .img-flex {
   display: block;
   width: 100%;
